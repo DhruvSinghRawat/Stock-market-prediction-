@@ -1,3 +1,5 @@
+#Stock Market Prediction And Forecasting Using Stacked LSTM
+
 Stock market prediction and forecasting using Stacked Long Short-Term Memory (LSTM) networks involves employing deep learning techniques to analyze historical stock market data and predict future price movements. LSTM is a type of recurrent neural network (RNN) architecture that is well-suited for sequence prediction tasks like time series forecasting.
 
 Here's a general outline of how you might approach this task using stacked LSTM networks:
